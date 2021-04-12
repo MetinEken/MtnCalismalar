@@ -6,6 +6,7 @@ public class Day01 {
 		// TODO Auto-generated method stub
 System.out.println("deneme");
 System.out.println("olacak galiba");
+	System.out.println("bu sefer github dan olacak galiba");	
 	}
 
 }
